@@ -1,1 +1,1 @@
-# CNN_ciursera
+# CNN_coursera
